@@ -1,5 +1,6 @@
 name: Deploy to ECR
-# updated secrets
+# updated secrets details
+
 on: 
   push:
     branches: [ master ]
